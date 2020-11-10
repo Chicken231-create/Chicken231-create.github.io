@@ -1,0 +1,36 @@
+  html, body{
+      margin: 0;
+      padding: 0;
+      width: 0;
+    }
+body{
+    height: 100vh;
+    background:#3a3a44
+}
+button {
+    background: none;
+    color: cadetblue;
+    width: 220px
+    border: 1px solid #338033;
+    font-size: 20px;
+    border-radius: 4px;
+    transition: .6s;
+    position: absolute;
+    position: absolute;
+    top: 60%;
+    left: 36%;
+    transform: translate(-50%, - 50%)
+}
+.UberschriftInhalt{
+    position: absolute;
+    top: 5%;
+    left: 38%;
+    transform: translate(-50%, - 50%)
+}
+.Aufzahlung{
+    position: absolute;
+    top: 28%;
+    left: 33%;
+    transform: translate(-50%, - 50%)
+
+}
